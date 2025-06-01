@@ -1,9 +1,9 @@
 {
-  "name": "[YOUR PACKAGE NAME]",
-  "description": "Figma Tokens for [YOUR BRAND] Brand",
-  "homepage": "https://github.com/[YOUR USERNAME]/figma-tokens/tree/brand",
+  "name": "@iivanush/figma-tokens",
+  "description": "Figma Tokens for iivanush-brand Brand",
+  "homepage": "https://github.com/iivanush/figma-tokens/tree/brand",
   "repository": {
     "type": "git",
-    "url": "https://github.com/[YOUR USERNAME]/figma-tokens.git"
+    "url": "https://github.com/iivanush/figma-tokens.git"
   }
 }
